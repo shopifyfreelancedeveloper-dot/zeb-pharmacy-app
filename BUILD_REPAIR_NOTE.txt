@@ -1,0 +1,1 @@
+Repair in progress: switching to stable v3 source package plus targeted final file updates. Do not use v3_exact_parts until verified.
